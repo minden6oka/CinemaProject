@@ -52,7 +52,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CinemaServiceDLL\CinemaServiceDLL\CinemaServiceDLL.csproj">
+    <ProjectReference Include="..\CinemaServiceDLL\CinemaServiceDLL.csproj">
       <Project>{409a6031-cec2-4797-92a2-22619acdb9f6}</Project>
       <Name>CinemaServiceDLL</Name>
     </ProjectReference>
