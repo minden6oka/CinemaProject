@@ -17,6 +17,7 @@ namespace Host
                 host.Open();
                 Console.WriteLine("Press enter to exit...");
                 Console.ReadLine();
+            Console.WriteLine("NANDIIIII");
             }   
             
             
